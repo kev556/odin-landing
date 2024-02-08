@@ -1,3 +1,9 @@
 .top{
     background-color: #1F2937;
 }
+div {
+    display: block;
+}
+.capdiv {
+    display: flex;
+}
